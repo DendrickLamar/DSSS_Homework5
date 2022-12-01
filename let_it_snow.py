@@ -17,7 +17,6 @@ def main(speed=0, bg_color="grey"):
     """TODO: define different colors here"""
     color = ['red', 'green', 'blue', 'orange', 'yellow', 'purple', 'pink', 'light salmon', 'light green', 'light blue'] 
 
-    print(color)
 
     for _ in range(10):
         # define some params
